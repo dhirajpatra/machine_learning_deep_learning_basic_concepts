@@ -1,4 +1,4 @@
-# machine_learning_deep_learning_basic_concepts
+# Machine learning and Deep learning some basic concepts
 
 This PDF will be very helpful for primary concepts of machine learning and deep learning especially for beginners
 
